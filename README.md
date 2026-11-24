@@ -4,6 +4,10 @@ A practical ESP32-based environmental monitoring system for indoor growing. It r
 
 ## Features
 
+## Wiring Diagram
+
+![Wiring Diagram](wiring-diagram.png)
+
 - 2× SHT35 temperature & humidity sensors (I2C)
 - 2× JSN-SR04T ultrasonic sensors (distance / water level)
 - 2× Analog water level sensors
